@@ -1,6 +1,6 @@
-## Bloc Frontend Project Starter
+## Mike's blocitoff frontend project
 
-A starter application for student projects in Bloc's [Frontend Web Development Course](https://www.bloc.io/frontend-development-bootcamp).
+
 
 ## Pull Down the Code
 
